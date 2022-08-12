@@ -1,0 +1,6 @@
+[submodule "Arduino_DY_IRDaikin"]
+	path = Arduino_DY_IRDaikin
+	url = https://github.com/danny-source/Arduino_DY_IRDaikin
+[submodule "SimpleKalmanFilter"]
+	path = SimpleKalmanFilter
+	url = https://github.com/denyssene/SimpleKalmanFilter
